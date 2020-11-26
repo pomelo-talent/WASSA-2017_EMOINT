@@ -1,0 +1,3 @@
+If you run all ipynb files which begin with "wvmodel_lexicon", you will get "lstmatt_anger.h5", "lstmatt_fear.h5", "lstmatt_joy.h5", "lstmatt_sadness.h5", "lstmatt_whole.h5",
+"simpleNN_anger.pkl.tar", "simpleNN_fear.pkl.tar", "simpleNN_joy.pkl.tar", "simpleNN_sadness.pkl.tar", ""simpleNN_whole.pkl.tar", 
+"xgboost_anger.dat", "xgboost_fear.dat", "xgboost_joy.dat", "xgboost_sadness.dat", "xgboost_whole.dat" in this folder.
