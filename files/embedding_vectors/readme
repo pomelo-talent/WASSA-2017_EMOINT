@@ -1,1 +1,1 @@
-If you run , you will get "embedding_vectors_anger.npy", "embedding_vectors_fear.npy", "embedding_vectors_joy.npy", "embedding_vectors_sadness.npy", "embedding_vectors_whole.npy" in this folder.
+If you run all ipynb files which begin with "wvmodel_lexicon", you will get "embedding_vectors_anger.npy", "embedding_vectors_fear.npy", "embedding_vectors_joy.npy", "embedding_vectors_sadness.npy", "embedding_vectors_whole.npy" in this folder.
